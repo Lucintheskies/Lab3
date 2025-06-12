@@ -1,13 +1,13 @@
 body {
   font-family: 'Segoe UI', Arial, sans-serif;
-  background: linear-gradient(120deg, #f0f4c3, #b2dfdb);
+  background: linear-gradient(120deg, #1c1e01, #33d3c6);
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #263238;
-  color: #fff;
+  background-color: #18a1e6;
+  color: #11012b;
   text-align: center;
   padding: 1.5rem 0;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
@@ -50,14 +50,14 @@ nav ol li a:hover {
 
 #nivel2 {
   padding: 1.5rem;
-  background: #ffe0b2;
+  background: #d7f70d;
   border-radius: 15px;
   margin-bottom: 1.5rem;
 }
 
 #nivel3 {
   padding: 1rem;
-  background: #e1bee7;
+  background: #c51ae4;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
